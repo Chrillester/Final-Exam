@@ -1,0 +1,269 @@
+nav{
+	background-color:#6b665e ;
+	height: 70px;
+}
+.home{
+	background-image: url('../img/background.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+.home h1{
+	color: #281e15;
+	padding-top: 300px;
+	font-size: 50px;
+
+}
+.home h4{
+	padding-left: 10px;
+	padding-bottom: 20px;
+}
+.links  li {
+	display: inline;
+	color: #281e15;
+
+
+}
+.links a{
+	color: #281e15;
+}
+.links i{
+	padding-right: 9px;
+	color: #281e15;
+}
+.links li a{
+	padding: 0 0 0 15px;
+}
+.home .hireme{
+	background-color: #6b665e;
+	margin-top: 20px;
+	margin-left: 14px;
+}
+.about{
+	height: 960px;
+	padding-top: 45px;
+	color: #281e15;
+	background-color: #897d74;
+}
+.dis{
+	background-image: url('../img/img.y.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 85vh;
+	margin-top: 30px;
+}
+.des ul li{
+	font-size: 20px;
+	padding: 35px 0 35px 0;
+	list-style: none;
+	padding-top: 15px;
+}
+.fa-angle-right{
+	padding-right: 10px;
+
+}
+.fact h1{
+	padding-top: 5px;
+
+}
+.achievement{
+	padding-left: 20px;
+	color: #6b665e;
+}
+.resume{
+	background-color: #897d74;
+	height: 100vh;
+	padding-top: 55px;
+}
+.Resume h1{
+	color: #281e15;
+}
+.check{
+	color: #281e15;
+	padding-top: 25px;
+	font-size: 20px;
+}
+.names h3{
+	color: #281e15;
+	list-style: none;
+	padding-top: 13px;
+	font-size: 17px;
+}
+.namess{
+	color: #281e15;
+	list-style: none;
+	padding-left: 40px;
+	font-size: 15px;
+}
+.location h4{
+	color: #281e15;
+	padding-top: 15px;
+	margin-left: 3px;
+	font-size: 14px;
+}
+.education h4{
+	color: #281e15;
+	padding-top: 13px;
+	margin-left: 39px;
+}
+.ICT h3{
+	color: #281e15;
+	font-size: 16px;
+	padding-top: 11px;
+}
+.year1{
+	color: #281e15;
+	list-style: none;
+	padding-left: 40px;
+	margin-top: 10px;
+	font-size: 14px;
+}
+.school h3{
+	color: #281e15;
+	list-style: none;
+	padding-top: 10px;
+	padding-left: 40px;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+.text0{
+	color: #281e15;
+	list-style: none;
+	padding-top: 8px;
+	padding-left: 40px;
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+.national h3{
+	color: #281e15;
+	padding-top: 8px;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+.text2{
+	color: #281e15;
+	list-style: none;
+	padding-top: 5px;
+	padding-left: 40px;
+	font-size: 14px;
+}
+.BSIT h4{
+	color: #281e15;
+	padding-top: 17px;
+}
+.year2{
+	color: #281e15;
+	list-style: none;
+	padding-left: 40px;
+	font-size: 14px;
+}
+.school2{
+	color: #281e15;
+	list-style: none;
+	padding-top: 15px;
+	padding-left: 40px;
+	font-size: 14px;
+}
+.service{
+	background-color: #897d74;
+	height: 100vh;
+	padding-top: 55px;
+}
+.Services h1{
+	color: #281e15;
+}
+.pic1{
+	background-image: url('../img/1.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic2{
+	background-image: url('../img/2.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic3{
+	background-image: url('../img/4.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic4{
+	background-image: url('../img/5.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 25vh;
+	margin-top: 180px;
+}
+.pic1 h4{
+	color: #281e15;
+	padding-top: 220px;
+	padding-left: 33px;
+}
+.pic2 h4{
+	color: #281e15;
+	padding-top: 220px;
+	padding-left: 22px;
+}
+.pic3 h4{
+	color: #281e15;
+	padding-top: 220px;
+	padding-left: 5px;
+}
+.pic4 h4{
+	color: #281e15;
+	padding-top: 220px;
+	padding-left: 25px;
+}
+.portfolio{
+	background-color: #897d74;
+	height: 100vh;
+	padding-top: 56px;
+}
+.Portfolio h1{
+	color: #281e15;
+}
+.port{
+	background-image: url('../img/port.jpeg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 40vh;
+	margin-top: 153px;
+	margin-left: 100px;
+	margin-right: 80px;
+}
+.portf{
+	background-image: url('../img/folio.jpeg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 40vh;
+	margin-top: -296px;
+	margin-left: 605px;
+	margin-right: -100px;
+	
+}
+.contact{
+	background-color: #897d74;
+	height: 100vh;
+	padding-top: 100px;
+}
+.Contact h1{
+	color: #281e15;
+}
+.loc1{
+	padding: 40px 0 0px 40px;
+	color: #281e15;
+	padding-left: 30px;	
+}
+.loc1 h4{
+	padding-top: 65px;
+	padding-left: 40px;
+}
+.loc1 h4 span{
+	color: #281e15;
+}
